@@ -1,0 +1,7 @@
+git add .  => add toan bo nhung file thay doi trong may
+
+git commit -m " comment" => luu tat ca nhung file da add vao git tren may
+
+git pull origin master => lay tat ca source tren git va may tinh
+
+git push origin master => day tat ca file thay doi len git
